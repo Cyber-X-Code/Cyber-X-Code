@@ -1,6 +1,6 @@
 
 ***
-<code>![Logo](/HD%20No%20Logo%20G601-Cyber-X-Ver-2.jpg)
+<code>![Logo](/Logo%20Cyber%20X.jpg)
 </code>
 #Авторский репозиторий Cyber X
 ***
