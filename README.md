@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**Cyber-X-Code/Cyber-X-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+<code>![Logo](/HD%20No%20Logo%20G601-Cyber-X-Ver-2.jpg)
+</code>
+#Авторский репозиторий Cyber X
+***
+Добро пожаловать на мой скромный репозиторий! Возможно, вы уже знакомы с моим проектом https://cyber-x.ru на котором рассказывается о Linux. Тут, в этом репозитории, я шагнул совершенно в иную сторону, в веб, да и в целом в разработку, что, возможно, так же отразится и на сайте. 
+Вы можете найти меня в соц сетях:
+<code>[Telegram](https://t.me/Cyber_X_Linux)
+</code>
+<code>[VK](https://vk.com/cyber_x_corp)
+</code>
+***
+Стек технологий которыми я владею на данный момент:
+HTML
+CSS
+JavaScript
