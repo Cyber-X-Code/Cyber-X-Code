@@ -1,4 +1,4 @@
-<code>![Logo](/Logo%20Cyber%20X.jpg "Cyber X")</code> 
+<code>![Logo](/Logo%20Cyber%20X.png "Cyber X")</code> 
 
 # Авторский репозиторий Cyber X
 
