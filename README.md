@@ -12,10 +12,4 @@
 <code>[VK](https://vk.com/cyber_x_corp)
 </code>
 ***
-Стек технологий которыми я владею на данный момент:
 
-HTML
-
-CSS
-
-JavaScript
